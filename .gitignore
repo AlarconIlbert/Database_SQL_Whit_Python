@@ -1,5 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,venv,executable
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,macos,linux,venv,executable
+/src
 
 ### Executable ###
 *.app
@@ -270,5 +269,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,venv,executable
